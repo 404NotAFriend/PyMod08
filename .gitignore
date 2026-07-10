@@ -3,3 +3,6 @@ matrix_env/
 __pycache__/
 .mypy_cache/
 matrix_analysis.png
+matrix_env/
+venv/
+.venv/
